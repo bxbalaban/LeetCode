@@ -12,6 +12,7 @@ $$O(n)$$ n2
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
 # Code
+
 ```
 class Solution {
     public List<List<Integer>> generate(int numRows) {

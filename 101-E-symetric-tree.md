@@ -1,5 +1,5 @@
 # Intuition
-I didn't want to create another function for recurive logic but it took a lot of time.
+I didn't want to create another function for recursive logic but it took a lot of time.
 
 # Approach
 We are taking our tree just as it was two separate tree. We are checking if the root is null as usual. We are checking if the roots are both null if they are. Then we are returning the equality of the right and left values after that calling the right and the left side of the tree.
